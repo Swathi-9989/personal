@@ -1,0 +1,5 @@
+print("Hello")
+print("my Dear")
+print("Friend")
+print("have a nice day")
+print("==============")
